@@ -1,0 +1,7 @@
+求奇数
+Sql server
+Id % 2 =1 奇数
+Id % 2 = 0 偶数
+Mysql
+Mod(id, 2) = 1 奇数
+Mod(id, 2) = 0 偶数
